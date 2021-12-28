@@ -1,0 +1,23 @@
+
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(‡‹¿Æ8ş–¬¶Â/H‚SRMAJORZ
+CODE_SMELL
+n	java:S125-"<This block of commented-out lines of code should be removed.( ü¨8Ø”‘¶Â/HƒSRMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(‹ˆÅÀüÿÿÿÿ8ş–¬¶Â/H†SRMAJORZ
+CODE_SMELL
+p	java:S106J"9Replace this use of System.out or System.err by a logger.(†¾µúÿÿÿÿ8ş–¬¶Â/H‡SRMAJORZ
+CODE_SMELL
+k	java:S106K"9Replace this use of System.out or System.err by a logger.(»¹°8ş–¬¶Â/HˆSRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ì¦œæúÿÿÿÿ8¸å–±Â/H‰SRMAJORZ
+CODE_SMELL
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(ú±±Üÿÿÿÿÿ8ş–¬¶Â/HŠSRMAJORZ
+CODE_SMELL
+p	java:S106G"9Replace this use of System.out or System.err by a logger.(ú±±Üÿÿÿÿÿ8ş–¬¶Â/H‹SRMAJORZ
+CODE_SMELL
+p	java:S106I"9Replace this use of System.out or System.err by a logger.(æÂƒùÿÿÿÿ8ş–¬¶Â/HŒSRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ä¦Öıÿÿÿÿ8³×ø±Â/HSRMAJORZ
+CODE_SMELL
+p	java:S106H"9Replace this use of System.out or System.err by a logger.(‹ˆÅÀüÿÿÿÿ8ş–¬¶Â/HSRMAJORZ
+CODE_SMELL

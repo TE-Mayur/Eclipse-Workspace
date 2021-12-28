@@ -1,0 +1,27 @@
+
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(™®•…øÿÿÿÿ8½ ›‡Ê/HîaRMAJORZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ýÿÿÿÿ8á×ŠäÝ/HýbRBLOCKERZBUG
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÖÔ¿®8½ ›‡Ê/HôaRBLOCKERZBUG
+s	java:S125"<This block of commented-out lines of code should be removed.(àËîýÿÿÿÿ8½ ›‡Ê/HöaRMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(Í³“ð8½ ›‡Ê/HèaRMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8½ ›‡Ê/HêaRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ûÍ·ðùÿÿÿÿ8½ ›‡Ê/HõaRMAJORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(Þƒ¢…úÿÿÿÿ8½ ›‡Ê/HíaRMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(‡›ñƒ8½ ›‡Ê/HëaRMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(‡›ñƒ8½ ›‡Ê/HïaRMAJORZ
+CODE_SMELL
+n	java:S125!"<This block of commented-out lines of code should be removed.(¸­ï8ÞÝŒäÝ/HcRMAJORZ
+CODE_SMELL
+
+java:S1192*"IDefine a constant instead of duplicating this literal "Names  :" 3 times.(‡›ñƒ8½ ›‡Ê/HðaRCRITICALZ
+CODE_SMELL

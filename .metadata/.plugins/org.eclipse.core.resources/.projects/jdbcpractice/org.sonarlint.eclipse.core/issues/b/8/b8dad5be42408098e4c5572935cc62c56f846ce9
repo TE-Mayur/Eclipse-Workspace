@@ -1,0 +1,9 @@
+
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹œâèûÿÿÿÿ8×ÊûÖ/HŸURMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8ø‡‘Ö/H®URMAJORZ
+CODE_SMELL
+V
+java:S1659"#Declare "first" on a separate line.(óàì8¼¦ÿÖ/H¤URMINORZ
+CODE_SMELL

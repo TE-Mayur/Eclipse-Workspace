@@ -1,0 +1,8 @@
+
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ß¿É˜É/H—cRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÏƒÏµúÿÿÿÿ8Å«Ñ˜É/H–cRMAJORZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8Æ‹¡É/H˜cRBLOCKERZBUG

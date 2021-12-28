@@ -1,0 +1,47 @@
+
+_
+java:S1602",Remove useless curly braces around statement(Ò§ÜÎ8ëò ¢Å/Hı6RMINORZ
+CODE_SMELL
+b
+java:S1611"/Remove the parentheses around the "a" parameter(Ò§ÜÎ8ëò ¢Å/Hô6RMINORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "ref3" local variable.(„µÿéıÿÿÿÿ8Âı¢¢Å/Hù6RMINORZ
+CODE_SMELL
+d
+java:S1602
+",Remove useless curly braces around statement(Â‡´Æÿÿÿÿÿ8ëò ¢Å/Hÿ6RMINORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "ref".(Ò§ÜÎ8ëò ¢Å/Hö6RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¡½–H8Âı¢¢Å/Hø6RMAJORZ
+CODE_SMELL
+g
+java:S1611"/Remove the parentheses around the "c" parameter(„µÿéıÿÿÿÿ8Âı¢¢Å/Hõ6RMINORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "ref" local variable.(Ò§ÜÎ8ëò ¢Å/Hû6RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¿éáüÿÿÿÿ8ëò ¢Å/Hş6RMAJORZ
+CODE_SMELL
+d
+java:S1602",Remove useless curly braces around statement(„µÿéıÿÿÿÿ8Âı¢¢Å/H€7RMINORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "ref3".(„µÿéıÿÿÿÿ8Âı¢¢Å/Hú6RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Õ´Óüÿÿÿÿ8ëò ¢Å/Hü6RMAJORZ
+CODE_SMELL
+a
+java:S1481
+")Remove this unused "ref2" local variable.(Â‡´Æÿÿÿÿÿ8ëò ¢Å/Hó6RMINORZ
+CODE_SMELL
+p
+java:S1854
+"8Remove this useless assignment to local variable "ref2".(Â‡´Æÿÿÿÿÿ8ëò ¢Å/H÷6RMAJORZ
+CODE_SMELL
+g
+java:S1611
+"/Remove the parentheses around the "a" parameter(Â‡´Æÿÿÿÿÿ8ëò ¢Å/H7RMINORZ
+CODE_SMELL

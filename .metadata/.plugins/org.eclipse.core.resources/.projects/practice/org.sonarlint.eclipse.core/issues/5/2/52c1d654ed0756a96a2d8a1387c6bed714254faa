@@ -1,0 +1,25 @@
+
+[
+java:S1481"(Remove this unused "str" local variable.(¹Ç©€8² ãÒ/H¨JRMINORZ
+CODE_SMELL
+f
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8² ãÒ/HªJRMINORZ
+CODE_SMELL
+d
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8² ãÒ/H©JRMINORZ
+CODE_SMELL
+b
+java:S1481"/Remove this unused "connection" local variable.(ïÆ¥8ÌŸîıÑ/H”JRMINORZ
+CODE_SMELL
+f
+java:S1481".Remove this unused "statement" local variable.(éÃ¢Ïıÿÿÿÿ8èøıÑ/H˜JRMINORZ
+CODE_SMELL
+f
+java:S1481".Remove this unused "resultSet" local variable.(›÷Œœúÿÿÿÿ8èøıÑ/H™JRMINORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8² ãÒ/H§JRMAJORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "str".(¹Ç©€8² ãÒ/H¦JRMAJORZ
+CODE_SMELL

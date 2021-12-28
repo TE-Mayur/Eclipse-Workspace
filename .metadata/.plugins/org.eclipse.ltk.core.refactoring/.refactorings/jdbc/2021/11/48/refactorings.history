@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SelectDynamic.java&apos; to &apos;jdbcpractice/src/org.te.jdbcpractice.dynamically&apos;&#x0D;&#x0A;- Original project: &apos;jdbc&apos;&#x0D;&#x0A;- Destination element: &apos;jdbcpractice/src/org.te.jdbcpractice.dynamically&apos;&#x0D;&#x0A;- Original element: &apos;com.te.jdbc.dynamic.SelectDynamic.java&apos;" description="Copy compilation unit" destination="=jdbcpractice/src&lt;org.te.jdbcpractice.dynamically" element1="/src&lt;com.te.jdbc.dynamic{SelectDynamic.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1638037511027" units="1" version="1.0"/>
+</session>

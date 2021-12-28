@@ -1,0 +1,33 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°ºé8Ü«éÁÂ/HáRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(–‡€d8Ü«éÁÂ/HâRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¿‡›±8Ü«éÁÂ/HãRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¿âĞ˜øÿÿÿÿ8Ü«éÁÂ/HäRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(éÚĞË8Ü«éÁÂ/HåRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‘İæØúÿÿÿÿ8Ü«éÁÂ/HæRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ä Y8Ü«éÁÂ/HçRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(çĞ„¾8Ü«éÁÂ/HèRMAJORZ
+CODE_SMELL
+x
+java:S1858"F"str" is already a string, there's no need to call "toString()" on it.(Ä Y8Ü«éÁÂ/HéRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ŠıÜÄûÿÿÿÿ8ŸÓŒÃ/HêRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ı¿Û8Ü«éÁÂ/HëRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(±“‰¿üÿÿÿÿ8Ü«éÁÂ/HìRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(…ùãı8Ü«éÁÂ/HíRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ßà×†8Ü«éÁÂ/HîRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜•É»øÿÿÿÿ8Ü«éÁÂ/HïRMAJORZ
+CODE_SMELL

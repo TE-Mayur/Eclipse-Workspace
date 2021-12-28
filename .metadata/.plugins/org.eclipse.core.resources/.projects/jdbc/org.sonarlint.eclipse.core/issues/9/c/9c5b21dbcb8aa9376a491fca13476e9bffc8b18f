@@ -1,0 +1,27 @@
+
+d	java:S106,"9Replace this use of System.out or System.err by a logger.(Ÿ¹•H“dRMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(åÒ˜çıÿÿÿÿH”dRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(ÂÑ§óúÿÿÿÿH•dRMAJORZ
+CODE_SMELL
+t
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ğ—…ıÿÿÿÿH–dRBLOCKERZBUG
+u
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/H—dRBLOCKERZBUG
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(€ı¥úÿÿÿÿH˜dRMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿH™dRMAJORZ
+CODE_SMELL
+d	java:S106+"9Replace this use of System.out or System.err by a logger.(°ÄÙæHšdRMAJORZ
+CODE_SMELL
+t
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÍÉğH›dRBLOCKERZBUG
+i	java:S106."9Replace this use of System.out or System.err by a logger.( ¥¾îúÿÿÿÿHœdRMAJORZ
+CODE_SMELL
+T	java:S1084")Either remove or fill this block of code.(”ı¾HdRMAJORZ
+CODE_SMELL
+d	java:S106/"9Replace this use of System.out or System.err by a logger.(ÕöÎ²HdRMAJORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(ğıéğşÿÿÿÿHŸdRMAJORZ
+CODE_SMELL

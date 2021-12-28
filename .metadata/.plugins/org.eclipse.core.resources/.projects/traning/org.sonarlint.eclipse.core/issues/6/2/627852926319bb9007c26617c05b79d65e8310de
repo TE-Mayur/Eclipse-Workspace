@@ -1,0 +1,8 @@
+
+g	java:S125	"<This block of commented-out lines of code should be removed.(†¨÷ÈH„DRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ãø¸ıÿÿÿÿH…DRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH†DRINFOZ
+CODE_SMELL

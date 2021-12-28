@@ -1,0 +1,18 @@
+
+R
+java:S1659"Declare "t" on a separate line.(×Û€â8ÜÊª­Ä/H±RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(·¤Ÿáüÿÿÿÿ8ÜÊª­Ä/H²RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«³¯Üûÿÿÿÿ8ÜÊª­Ä/H³RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(°†Ä¬úÿÿÿÿ8ÚÉö¬Ä/H´RMAJORZ
+CODE_SMELL
+_
+java:S1659",Declare "simpleinterest" on a separate line.(×Û€â8ªá¯­Ä/HµRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ž½‚ß8ÜÊª­Ä/H¶RMAJORZ
+CODE_SMELL
+R
+java:S1659"Declare "r" on a separate line.(×Û€â8ÜÊª­Ä/H·RMINORZ
+CODE_SMELL

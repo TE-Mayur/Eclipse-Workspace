@@ -1,0 +1,8 @@
+
+s	java:S125S"<This block of commented-out lines of code should be removed.(™…°ùûÿÿÿÿ8ÚØØúÄ/HÇRMAJORZ
+CODE_SMELL
+|
+java:S1206L"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8›ÁÖúÄ/HÅRMINORZBUG
+‘
+java:S1210Q"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¢¦ƒ ÿÿÿÿÿ8›ÁÖúÄ/HÄRMINORZ
+CODE_SMELL

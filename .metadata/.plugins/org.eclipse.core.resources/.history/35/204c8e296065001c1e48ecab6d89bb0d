@@ -1,0 +1,33 @@
+package mock;
+
+public class Demo {
+	
+	 void display() {
+		System.out.println("Mayur");
+	}
+	
+	static int square(int num) {
+		int res = num * num;
+		return res;
+	}
+	
+	public static void main(String[] args) {
+		
+		Demo ref = new Demo();
+		
+		System.out.println(ref);
+		
+		Demo obj = new Demo();
+		
+		System.out.println("Object info " + obj);
+	
+		obj.display(); // Mayur
+		
+		ref.display(); // Mayur
+		int value = square(5);
+		
+		System.out.println("Square root of 5 is " + value);
+		
+	}
+
+}

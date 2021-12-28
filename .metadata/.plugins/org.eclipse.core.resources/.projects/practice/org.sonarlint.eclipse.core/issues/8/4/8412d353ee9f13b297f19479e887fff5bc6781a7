@@ -1,0 +1,11 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ãŞ¸éûÿÿÿÿ8««ø£Ç/H‡=RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°›÷ğúÿÿÿÿ8şåıÅ/Hƒ=RMAJORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(ÚŒØ‚úÿÿÿÿ8şåıÅ/H…=RMINORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¸¬×şÅ/H‚=RMINORZ
+CODE_SMELL

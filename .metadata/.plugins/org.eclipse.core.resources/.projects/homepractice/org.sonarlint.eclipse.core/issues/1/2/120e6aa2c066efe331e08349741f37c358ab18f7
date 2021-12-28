@@ -1,0 +1,13 @@
+
+p
+java:S2589	"8Remove this expression which always evaluates to "false"(æ«—èýÿÿÿÿ8¶Õ„‹Î/HúKRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(îš°×8©öÞÿÎ/HûKRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(–Ò¬øÿÿÿÿ8Ð¿ßÿÎ/HüKRMAJORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(¢Äú8‡éÓÿÎ/HýKRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢Äú8‡éÓÿÎ/HþKRMAJORZ
+CODE_SMELL

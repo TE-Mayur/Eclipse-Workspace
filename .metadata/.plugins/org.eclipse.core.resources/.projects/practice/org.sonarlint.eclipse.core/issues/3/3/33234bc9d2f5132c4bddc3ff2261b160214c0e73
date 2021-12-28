@@ -1,0 +1,16 @@
+
+
+java:S4042	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ε©ζ8»ο”½Γ/H;RMAJORZ
+CODE_SMELL
+_
+java:S1125
+"'Remove the unnecessary boolean literal.(³ω¬Όϊÿÿÿÿ8ι‘½Γ/H‹;RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ν¤Σc8ι‘½Γ/H;RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Γ‚ωπ8ι‘½Γ/H;RMAJORZ
+CODE_SMELL
+y
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ΉβΰΡύÿÿÿÿ8ι‘½Γ/H;RMINORZ
+CODE_SMELL
+f	java:S899	";Do something with the "boolean" value returned by "delete".(Ε©ζ8»ο”½Γ/H;RMINORZBUG

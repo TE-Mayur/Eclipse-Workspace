@@ -1,0 +1,40 @@
+
+e
+java:S1128"3Remove this unused import 'com.te.array.MyArrayV2'.(úó?8éÈŒ„Ä/H„ORMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÿÊ±H…ORMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¥êÁ¨H†ORMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ù·Ï£şÿÿÿÿH‡ORMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¿©¢âHˆORMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ùÆ…³8éæğƒÄ/H‰ORMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°¾û8ÿÀ€Ä/HŠORMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°Ş´Ç8¥Â¢ÍÄ/H‹ORMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8ŞçøƒÄ/HŒORMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ãÚ¯æ8øÑùƒÄ/HORMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°®¥‹üÿÿÿÿ8éÈŒ„Ä/HORMAJORZ
+CODE_SMELL
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(Ô‰­şÿÿÿÿHORMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8¥Â¢ÍÄ/HORMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8¥Â¢ÍÄ/H‘ORMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(ËÕ²ÿûÿÿÿÿ8¥Â¢ÍÄ/H’ORMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(©İ¨Á8ÔÀöƒÄ/H“ORMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¬âõøÿÿÿÿ8µºÿƒÄ/H”ORMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(­¶Â˜8éÈŒ„Ä/H•ORMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ôëğ¯H–ORMAJORZ
+CODE_SMELL

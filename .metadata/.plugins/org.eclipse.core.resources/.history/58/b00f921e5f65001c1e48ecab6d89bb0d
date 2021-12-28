@@ -1,0 +1,23 @@
+package mock;
+
+public class Demo {
+	
+	static void display() {
+		System.out.println("Mayur");
+	}
+	
+	public static void main(String[] args) {
+		
+		Demo ref = new Demo();
+		
+		System.out.println(ref);
+		
+		Demo obj = new Demo();
+		
+		System.out.println("Object info " + obj);
+		
+		display();
+		
+	}
+
+}

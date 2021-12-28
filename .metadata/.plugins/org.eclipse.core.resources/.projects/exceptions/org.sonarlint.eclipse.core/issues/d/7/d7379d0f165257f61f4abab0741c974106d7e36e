@@ -1,0 +1,6 @@
+
+
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑëH‚0RBLOCKERZ
+CODE_SMELL
+k
+java:S2259"AA "NullPointerException" could be thrown; "obj" is nullable here.(ºÄêØøÿÿÿÿHş/RMAJORZBUG

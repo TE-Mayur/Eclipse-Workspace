@@ -1,0 +1,14 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ñıÌ’8ÛÜóÅ/Hı:RMAJORZ
+CODE_SMELL
+Y
+java:S1172"&Remove these unused method parameters.(Í‰é8ŞÁŞóÅ/Hş:RMAJORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(®èğ 8ˆØİóÅ/H;RMAJORZ
+CODE_SMELL
+[
+java:S1172	"(Remove this unused method parameter "i".(‘³‰÷8ˆØİóÅ/H‚;RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(æÙó²ıÿÿÿÿ8ŞÁŞóÅ/H„;RMAJORZ
+CODE_SMELL

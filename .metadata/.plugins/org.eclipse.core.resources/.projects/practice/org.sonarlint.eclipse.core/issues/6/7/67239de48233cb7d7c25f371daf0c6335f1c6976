@@ -1,0 +1,15 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ÄøÏˆøÿÿÿÿ8ıÕÃøÅ/H‘;RMAJORZ
+CODE_SMELL
+p
+java:S1854@"8Remove this useless assignment to local variable "ref2".(‘ÀÈÙúÿÿÿÿ8öÅæıÅ/H™;RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ùõ†ó8ÇæøÅ/Hš;RMAJORZ
+CODE_SMELL
+s	java:S125*"<This block of commented-out lines of code should be removed.(œ“¸Ûûÿÿÿÿ8öÅæıÅ/H¥;RMAJORZ
+CODE_SMELL
+a
+java:S1481@")Remove this unused "ref2" local variable.(‘ÀÈÙúÿÿÿÿ8öÅæıÅ/H¶;RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ÈÛƒùøÿÿÿÿ8˜İÈøÅ/H·;RMAJORZ
+CODE_SMELL

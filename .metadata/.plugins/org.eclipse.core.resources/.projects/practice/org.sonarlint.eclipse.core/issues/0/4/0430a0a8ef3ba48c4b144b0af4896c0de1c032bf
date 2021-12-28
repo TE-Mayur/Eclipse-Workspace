@@ -1,0 +1,8 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Š¤›¢8¬ÞØ½Ã/H²
+RMAJORZ
+CODE_SMELL
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‡Žè×8±ˆ’ÁÃ/H³
+RMINORZ
+CODE_SMELL

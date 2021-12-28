@@ -1,0 +1,33 @@
+
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(ÕöÎ²8ú¥–É/HÕSRMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(°ÄÙæ8ß÷–É/H×SRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ğıéğşÿÿÿÿ8å¦•“É/HÜSRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ÂÑ§óúÿÿÿÿ8ß÷–É/HÖSRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(àËîıÿÿÿÿ8å¦•“É/HÒSRMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Ş²—É/HÏSRMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(Ÿ¹•8ß÷–É/HÑSRMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.( ¥¾îúÿÿÿÿ8ß÷–É/HĞSRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(€ı¥úÿÿÿÿ8ß÷–É/HİSRMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(åÒ˜çıÿÿÿÿ8ß÷–É/HÚSRMAJORZ
+CODE_SMELL
+z
+java:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8‹Á—¡É/HÛSRBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„µˆ8ß÷–É/HÙSRMAJORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿ8ß÷–É/HÎSRMAJORZ
+CODE_SMELL
+e
+java:S1128	"2Remove this unused import 'com.mysql.jdbc.Driver'.(Ô–ƒŸ8Î±¢šÉ/HŞSRMINORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(Á¡ı¸ûÿÿÿÿ8ß÷–É/HØSRMAJORZ
+CODE_SMELL

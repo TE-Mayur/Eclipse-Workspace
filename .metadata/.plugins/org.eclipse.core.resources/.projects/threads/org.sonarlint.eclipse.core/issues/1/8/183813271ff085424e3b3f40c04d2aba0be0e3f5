@@ -1,0 +1,23 @@
+
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(æ×—÷8¬èå¨Å/Hê6RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ž—z8¬èå¨Å/Hæ6RMAJORZ
+CODE_SMELL
+u
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(¦Ž¨‹ùÿÿÿÿ8«Çú©Å/Hä6RCRITICALZ
+CODE_SMELL
+q
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËè8ˆ±þ©Å/Hè6RBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(™¢„£8¬èå¨Å/Hã6RMAJORZ
+CODE_SMELL
+a
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8«Çú©Å/Hç6RMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Í›þÚ8¬èå¨Å/Hé6RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆóúãþÿÿÿÿ8¬èå¨Å/Hâ6RMAJORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8«Çú©Å/Há6RMAJORZBUG
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ìýþ©Å/Hå6RMAJORZBUG

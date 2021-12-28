@@ -1,0 +1,39 @@
+
+Œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôã…–8Ú“ôÄ/H»1RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¬£œ8ƒˆôôÄ/H°1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(šôÈû8ƒµøôÄ/H¬1RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8ƒµøôÄ/H³1RMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(Ü¼Ê™üÿÿÿÿ8¨á¼õÄ/H²1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(íê­…8Ú“ôÄ/H®1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÒÑı8Ú“ôÄ/Hº1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰âíİ8Ú“ôÄ/H¼1RMAJORZ
+CODE_SMELL
+s	java:S125#"<This block of commented-out lines of code should be removed.(ĞÂ“•øÿÿÿÿ8Ú“ôÄ/H·1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(íê­…8Ú“ôÄ/H­1RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(ÌÒÑı8Ú“ôÄ/Hµ1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(šôÈû8Ú“ôÄ/H±1RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ8©’œõÄ/H¯1RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(°æÿÿÿÿÿ8´õºõÄ/H¶1RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(”«®½8ÙáŒôÄ/H¹1RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ı±íşÿÿÿÿ8Ú“ôÄ/H¸1RMAJORZ
+CODE_SMELL
+[
+java:S2114"*Remove or correct this "containsAll" call.(ı±íşÿÿÿÿ8ÈÑ„õÄ/H«1RMAJORZBUG
+p	java:S106""9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ8®¦õÄ/H´1RMAJORZ
+CODE_SMELL

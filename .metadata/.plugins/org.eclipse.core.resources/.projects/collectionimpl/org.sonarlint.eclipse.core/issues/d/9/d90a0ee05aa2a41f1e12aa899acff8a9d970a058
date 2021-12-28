@@ -1,0 +1,30 @@
+
+d	java:S106/"9Replace this use of System.out or System.err by a logger.(À‚úÅHŒRRMAJORZ
+CODE_SMELL
+{
+java:S1128"CRemove this unused import 'java.security.DrbgParameters.NextBytes'.(¸©—ÿşÿÿÿÿ8Ø¿ÓÔ/HRRMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Ø¿ÓÔ/HRRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(«¿ºì8˜ÕĞÔ/HRRMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(×ø¶ÿúÿÿÿÿH“RRMAJORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(¹Óú H”RRMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(­ØÀËüÿÿÿÿH•RRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ã™™hH–RRMAJORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH—RRMAJORZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(üóş™H˜RRMAJORZ
+CODE_SMELL
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(¡©è½H™RRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ø¿ÓÔ/HšRRMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8÷ñÕÔ/H›RRMAJORZ
+CODE_SMELL

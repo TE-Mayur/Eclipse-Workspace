@@ -1,0 +1,77 @@
+
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(‚·É½ıÿÿÿÿHœNRMAJORZ
+CODE_SMELL
+i	java:S106Q"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿHªNRMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(çõ½şÿÿÿÿH¦NRMAJORZ
+CODE_SMELL
+i	java:S106N"9Replace this use of System.out or System.err by a logger.(¡å¿·ùÿÿÿÿHNRMAJORZ
+CODE_SMELL
+i	java:S106H"9Replace this use of System.out or System.err by a logger.(ÿÇÅùÿÿÿÿH¨NRMAJORZ
+CODE_SMELL
+i	java:S1066"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH™NRMAJORZ
+CODE_SMELL
+d	java:S1062"9Replace this use of System.out or System.err by a logger.(¹îæH–NRMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ş˜ˆ•ıÿÿÿÿH¡NRMAJORZ
+CODE_SMELL
+i	java:S106O"9Replace this use of System.out or System.err by a logger.(ıê‹éùÿÿÿÿHˆNRMAJORZ
+CODE_SMELL
+i	java:S106D"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH˜NRMAJORZ
+CODE_SMELL
+d	java:S106F"9Replace this use of System.out or System.err by a logger.(ÿ’’ªH—NRMAJORZ
+CODE_SMELL
+`
+java:S1874"/Remove this use of "Integer"; it is deprecated.(“µ¼üÿÿÿÿHNRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Âà©¹ûÿÿÿÿHNRMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(Ï¯üÿÿÿÿHNRMAJORZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(»êÆ´HNRMAJORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿH‰NRMAJORZ
+CODE_SMELL
+…
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ èH‹NRMINORZ
+CODE_SMELL
+d	java:S1064"9Replace this use of System.out or System.err by a logger.(ˆÿé£H NRMAJORZ
+CODE_SMELL
+i	java:S106R"9Replace this use of System.out or System.err by a logger.(±ŒÍ¨ıÿÿÿÿHŠNRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿHšNRMAJORZ
+CODE_SMELL
+R
+java:S2129"!Remove this "Integer" constructor(“µ¼üÿÿÿÿH¤NRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH©NRMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH§NRMAJORZ
+CODE_SMELL
+c	java:S106+"9Replace this use of System.out or System.err by a logger.(”ü†5H›NRMAJORZ
+CODE_SMELL
+d	java:S106<"9Replace this use of System.out or System.err by a logger.(êÓÒ·H”NRMAJORZ
+CODE_SMELL
+i	java:S106>"9Replace this use of System.out or System.err by a logger.(Í¾¾÷øÿÿÿÿH‡NRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH•NRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢ÔùÿÿÿÿH’NRMAJORZ
+CODE_SMELL
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(îä½øùÿÿÿÿHŒNRMAJORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(¹Óú H‘NRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÁâÄ¼ùÿÿÿÿHŸNRMAJORZ
+CODE_SMELL
+d	java:S106J"9Replace this use of System.out or System.err by a logger.(ŸÏÍèH“NRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(®åŸÿÿÿÿÿÿH¢NRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ø´ÕÙøÿÿÿÿH¥NRMAJORZ
+CODE_SMELL
+d	java:S106;"9Replace this use of System.out or System.err by a logger.(Á¡±‰H£NRMAJORZ
+CODE_SMELL
+i	java:S106B"9Replace this use of System.out or System.err by a logger.(›“İªşÿÿÿÿHNRMAJORZ
+CODE_SMELL

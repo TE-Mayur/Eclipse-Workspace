@@ -1,0 +1,17 @@
+package com.sunday.assignments;
+
+public class NumberOfArguments {
+	String wordToFind = "GFG.";
+	  
+    
+  
+    	for(int i = 0; i < arguments.length; i++) {    
+        if (arguments[i].equalsIgnoreCase(wordToFind)) {
+  
+             System.out.println("Provided word "+
+                          wordToFind + " is present " +  
+                         "and it is at location " + (i+1));
+        }
+   }
+ }
+

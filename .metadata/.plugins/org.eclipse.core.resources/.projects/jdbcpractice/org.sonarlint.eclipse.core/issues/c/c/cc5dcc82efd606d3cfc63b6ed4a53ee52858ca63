@@ -1,0 +1,11 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ØÛßÜùÿÿÿÿ8àğ÷‘Ö/HÀURMAJORZ
+CODE_SMELL
+f
+java:S1128"3Remove this unused import 'java.awt.Taskbar.State'.(ã¦ÕŠ8—É¦Ö/HˆURMINORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8—É¦Ö/H…URMAJORZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8ã¥ç‘Ö/H¸URBLOCKERZBUG

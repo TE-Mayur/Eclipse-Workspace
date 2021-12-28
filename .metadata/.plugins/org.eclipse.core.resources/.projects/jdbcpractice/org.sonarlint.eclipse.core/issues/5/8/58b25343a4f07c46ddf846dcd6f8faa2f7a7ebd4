@@ -1,0 +1,26 @@
+
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(×îø¦8Ú«ÑÖ/HâdRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(¨ñÈé8ü°¤Ö/HãdRMAJORZ
+CODE_SMELL
+m
+java:S3972;"7Move this "if" to a new line or add the missing "else".(Ğ¯š8úø·Ö/HädRCRITICALZ
+CODE_SMELL
+m
+java:S39729"7Move this "if" to a new line or add the missing "else".(ê†Ó¸8úø·Ö/HædRCRITICALZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8¼ùÖ/HèdRBLOCKERZBUG
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿ8ü°¤Ö/HédRMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8€·ıÖ/HêdRMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(øØ—ø8ü°¤Ö/HëdRMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆˆ¢Âûÿÿÿÿ8ü°¤Ö/HìdRMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(’şºŸ8ü°¤Ö/HídRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ğıéğşÿÿÿÿ8ü°¤Ö/HîdRMAJORZ
+CODE_SMELL

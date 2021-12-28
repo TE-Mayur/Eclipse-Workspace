@@ -1,0 +1,10 @@
+
+r
+java:S1128"?Remove this unused import 'java.io.ObjectInputStream.GetField'.(“Ä¡ô8„óëËÆ/H:RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ñ«ÛËÆ/H‹:RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(øÙÖã8¾ÄËÆ/HŒ:RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ùóÿÿÿÿÿ8¾ÄËÆ/H:RMAJORZ
+CODE_SMELL

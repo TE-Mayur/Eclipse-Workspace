@@ -1,0 +1,14 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ë†‹8à­êµÃ/H£RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÒ¾†ûÿÿÿÿ8¯”îµÃ/H¤RMAJORZ
+CODE_SMELL
+_
+java:S1125"'Remove the unnecessary boolean literal.(ÙøïÉøÿÿÿÿ8‹İºÃ/H©RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Î¦Şà8€Ş“¶Ã/H¢RMAJORZ
+CODE_SMELL
+t
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¸Ê ¾8íæµÃ/HRMINORZ
+CODE_SMELL
+r	java:S899"BDo something with the "boolean" value returned by "createNewFile".(ÀëÓÿÿÿÿÿÿ8½òãºÃ/H«RMINORZBUG

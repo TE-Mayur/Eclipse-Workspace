@@ -1,0 +1,21 @@
+
+d	java:S106,"9Replace this use of System.out or System.err by a logger.(’şºŸHÍXRMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿHËXRMAJORZ
+CODE_SMELL
+o
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ø½Ã‡H•YRBLOCKERZBUG
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(¨ñÈéHÎXRMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(ğıéğşÿÿÿÿHÌXRMAJORZ
+CODE_SMELL
+s
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ú‰’]H”YRBLOCKERZBUG
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(²ÀñıùÿÿÿÿHÊXRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(óäæıÿÿÿÿHÉXRMAJORZ
+CODE_SMELL
+m	java:S1253"<This block of commented-out lines of code should be removed.(ïÀ›D8Ë¹˜•Ö/H—YRMAJORZ
+CODE_SMELL
+|
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(’Şµ/8Ë¹˜•Ö/H YRBLOCKERZBUG

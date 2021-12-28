@@ -1,0 +1,13 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´…Å»úÿÿÿÿ8ÃÝÉÒÆ/H¤:RMAJORZ
+CODE_SMELL
+“
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "div".(†­¾Ðøÿÿÿÿ8ÄçÏÑÆ/H¥:RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(þéŠÜ8ÃÝÉÒÆ/H¨:RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Â§é€úÿÿÿÿ8ÃÝÉÒÆ/H§:RMAJORZ
+CODE_SMELL
+m
+java:S2209"5Change this instance-reference to a static reference.(´…Å»úÿÿÿÿ8ÃÝÉÒÆ/H¦:RMAJORZ
+CODE_SMELL

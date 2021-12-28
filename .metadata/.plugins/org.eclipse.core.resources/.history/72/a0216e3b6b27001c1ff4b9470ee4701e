@@ -1,0 +1,13 @@
+package com.te.java8features;
+
+public  class Efg implements Abc,Bcd {
+	public void display(int a) {
+
+	}
+	public static void main(String[] args) {
+		
+			
+		}
+	
+
+}

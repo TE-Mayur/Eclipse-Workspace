@@ -1,0 +1,45 @@
+
+j
+java:S1854 "7Remove this useless assignment to local variable "itr".(ÌĞ›î8·™ÍÈ/H=RMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(›÷°üÿÿÿÿÿ8·™ÍÈ/H¦=RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ß¾Å€8ß›ÍÈ/H³=RMAJORZ
+CODE_SMELL
+p
+java:S1854""8Remove this useless assignment to local variable "itr2".(˜ÉïÁÿÿÿÿÿ8·™ÍÈ/Hœ=RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ºÆøùÿÿÿÿ8·™ÍÈ/HŸ=RMAJORZ
+CODE_SMELL
+`
+java:S2157"%Add a "clone()" method to this class.(áÑîøÿÿÿÿ8ß›ÍÈ/H´=RCRITICALZ
+CODE_SMELL
+a
+java:S1481"")Remove this unused "itr2" local variable.(˜ÉïÁÿÿÿÿÿ8·™ÍÈ/H£=RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(×ÿ’¯úÿÿÿÿ8Òõ¦ÍÈ/HÒ=RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(¡èò8·™ÍÈ/H¤=RMAJORZ
+CODE_SMELL
+[
+java:S1481 "(Remove this unused "itr" local variable.(ÌĞ›î8·™ÍÈ/H¡=RMINORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·™ÍÈ/H¥=RMAJORZ
+CODE_SMELL
+a
+java:S1481!")Remove this unused "itr1" local variable.(°ÃŞüÿÿÿÿ8·™ÍÈ/H¢=RMINORZ
+CODE_SMELL
+p
+java:S1854!"8Remove this useless assignment to local variable "itr1".(°ÃŞüÿÿÿÿ8·™ÍÈ/H=RMAJORZ
+CODE_SMELL
+g
+java:S3740
+"/Provide the parametrized type for this generic.(Ì¬…Ôÿÿÿÿÿ8ß›ÍÈ/H²=RMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(¸½¶Å8·™ÍÈ/H¨=RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Áªø8·™ÍÈ/H =RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·™ÍÈ/H§=RMAJORZ
+CODE_SMELL

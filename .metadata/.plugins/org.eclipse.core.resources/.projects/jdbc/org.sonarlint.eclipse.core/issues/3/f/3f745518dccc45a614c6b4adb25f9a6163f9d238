@@ -1,0 +1,17 @@
+
+d
+java:S11355"2Complete the task associated to this TODO comment.(‡ñÅ¼8÷žÓåÝ/HÎdRINFOZ
+CODE_SMELL
+j	java:S106#"9Replace this use of System.out or System.err by a logger.(ðª£-8ÎçµåÝ/HÅdRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(Šä¥Ç8Ð¤²åÝ/HÄdRMAJORZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ýÿÿÿÿ8‘…¨åÝ/HµdRBLOCKERZBUG
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(‡›ñƒ8Ð¤²åÝ/HÃdRMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(Ù³˜›þÿÿÿÿ8Ð¤²åÝ/H¾dRMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8±¬ŸåÝ/H«dRMAJORZ
+CODE_SMELL

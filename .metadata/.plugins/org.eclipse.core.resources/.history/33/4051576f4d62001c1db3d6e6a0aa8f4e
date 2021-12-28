@@ -1,0 +1,15 @@
+package com.te.jdbc;
+
+import java.sql.Connection;
+import java.sql.Statement;
+
+public class GetData {
+	
+	public static void main(String[] args) {
+		
+		Connection connection = null;
+		Statement statement = null;
+		
+	}
+
+}

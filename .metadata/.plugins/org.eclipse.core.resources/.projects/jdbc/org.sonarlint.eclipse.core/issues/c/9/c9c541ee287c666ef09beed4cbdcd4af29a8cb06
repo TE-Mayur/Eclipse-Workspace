@@ -1,0 +1,24 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(ö·öŞ8îì˜ÑÉ/H™cRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(„µˆ8£ûÿĞÉ/HšcRMAJORZ
+CODE_SMELL
+s	java:S125+"<This block of commented-out lines of code should be removed.(ÒéŸ„ıÿÿÿÿ8Ãï§ÑÉ/H›cRMAJORZ
+CODE_SMELL
+z
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8£ûÿĞÉ/HœcRBLOCKERZBUG
+[	java:S1084")Either remove or fill this block of code.(”ı¾8ª½ÙĞÉ/HcRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(·ğİÖûÿÿÿÿ8£ûÿĞÉ/HcRMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8™¶˜ÑÉ/HŸcRMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(—ìÁ¸8ÀÇ‘ÑÉ/H cRMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(«€§Êûÿÿÿÿ8£ûÿĞÉ/H¡cRMAJORZ
+CODE_SMELL
+n	java:S125-"<This block of commented-out lines of code should be removed.(™Çä˜8Ãï§ÑÉ/H¢cRMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(‡›ñƒ8ÀÇ‘ÑÉ/H¦cRMAJORZ
+CODE_SMELL

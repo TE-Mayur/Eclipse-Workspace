@@ -1,0 +1,22 @@
+
+„
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(†–ÀBHÅQRMINORZ
+CODE_SMELL
+d	java:S1064"9Replace this use of System.out or System.err by a logger.(°×ëÃHÆQRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ç‰
+HÇQRMAJORZ
+CODE_SMELL
+…
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(òñŞËHÈQRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¦¨¹HÉQRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÊQRMAJORZ
+CODE_SMELL
+…
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(åŞ©HËQRMINORZ
+CODE_SMELL
+i	java:S106)"9Replace this use of System.out or System.err by a logger.(ŸøìıÿÿÿÿHÌQRMAJORZ
+CODE_SMELL

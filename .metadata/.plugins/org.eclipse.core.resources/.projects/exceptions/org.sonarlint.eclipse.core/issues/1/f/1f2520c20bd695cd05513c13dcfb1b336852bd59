@@ -1,0 +1,9 @@
+
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8Ò¥Ñ«Ã/Hò/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§”¯Ëüÿÿÿÿ8Ò¥Ñ«Ã/Hó/RMAJORZ
+CODE_SMELL
+f
+java:S1874	"3Remove this use of "newInstance"; it is deprecated.(ÿš³÷8öïÍ«Ã/Hý/RMINORZ
+CODE_SMELL

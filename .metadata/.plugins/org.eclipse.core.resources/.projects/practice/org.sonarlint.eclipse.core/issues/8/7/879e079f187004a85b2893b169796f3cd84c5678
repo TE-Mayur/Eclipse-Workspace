@@ -1,0 +1,12 @@
+
+y
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¹âàÑýÿÿÿÿ8ÁŽ±»Ã/H†;RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—ñÂóüÿÿÿÿ8ÁŽ±»Ã/H‡;RMAJORZ
+CODE_SMELL
+_
+java:S1125
+"'Remove the unnecessary boolean literal.(ÙøïÉøÿÿÿÿ8ÁŽ±»Ã/Hˆ;RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‘×˜¸ýÿÿÿÿ8ÁŽ±»Ã/H‰;RMAJORZ
+CODE_SMELL

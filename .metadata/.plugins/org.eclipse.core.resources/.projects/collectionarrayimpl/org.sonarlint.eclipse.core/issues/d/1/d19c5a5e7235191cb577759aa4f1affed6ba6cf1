@@ -1,0 +1,77 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ÕÎÑÄ/HÚRMAJORZ
+CODE_SMELL
+Œ
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ è8âÿ’ÔÄ/HÛRMINORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(îä½øùÿÿÿÿ8Ùá³ÑÄ/HÜRMAJORZ
+CODE_SMELL
+k	java:S106J"9Replace this use of System.out or System.err by a logger.(ŸÏÍè8ÕÎÑÄ/HİRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®åŸÿÿÿÿÿÿ8ò¨ÑÄ/HŞRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¾ÏÑÄ/HßRMAJORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(çõ½şÿÿÿÿ8Ï¾©ÑÄ/HàRMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(Á¡±‰8ÕÎÑÄ/HáRMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(‚·É½ıÿÿÿÿ8öìÀÑÄ/HâRMAJORZ
+CODE_SMELL
+p	java:S106R"9Replace this use of System.out or System.err by a logger.(±ŒÍ¨ıÿÿÿÿ8Ùá³ÑÄ/HãRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8§°ÒÑÄ/HäRMAJORZ
+CODE_SMELL
+Y
+java:S2129"!Remove this "Integer" constructor(“µ¼üÿÿÿÿ8­Ï ÑÄ/HåRMAJORZ
+CODE_SMELL
+p	java:S106@"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ8öìÀÑÄ/HæRMAJORZ
+CODE_SMELL
+p	java:S106O"9Replace this use of System.out or System.err by a logger.(ıê‹éùÿÿÿÿ8ËÿÖÑÄ/HçRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ø´ÕÙøÿÿÿÿ8§®ÑÄ/HèRMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8öìÀÑÄ/HéRMAJORZ
+CODE_SMELL
+p	java:S106Q"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8­Ï ÑÄ/HêRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Âà©¹ûÿÿÿÿ8ÕÎÑÄ/HëRMAJORZ
+CODE_SMELL
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(êÓÒ·8ÕÎÑÄ/HìRMAJORZ
+CODE_SMELL
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(Ï¯üÿÿÿÿ8ÕÎÑÄ/HíRMAJORZ
+CODE_SMELL
+g
+java:S1874"/Remove this use of "Integer"; it is deprecated.(“µ¼üÿÿÿÿ8­Ï ÑÄ/HîRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8Õ¤¢ÑÄ/HïRMAJORZ
+CODE_SMELL
+p	java:S106N"9Replace this use of System.out or System.err by a logger.(¡å¿·ùÿÿÿÿ8ËÿÖÑÄ/HğRMAJORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(¹îæ8§°ÒÑÄ/HñRMAJORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ˆÿé£8ËÿÖÑÄ/HòRMAJORZ
+CODE_SMELL
+p	java:S106H"9Replace this use of System.out or System.err by a logger.(ÿÇÅùÿÿÿÿ8ËÿÖÑÄ/HóRMAJORZ
+CODE_SMELL
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8Ùá³ÑÄ/HôRMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(»êÆ´8ŒË¶ÑÄ/HõRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ş˜ˆ•ıÿÿÿÿ8Ùá³ÑÄ/HöRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÁâÄ¼ùÿÿÿÿ8ÕÎÑÄ/H÷RMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(›“İªşÿÿÿÿ8¿â˜ÑÄ/HøRMAJORZ
+CODE_SMELL
+k	java:S106F"9Replace this use of System.out or System.err by a logger.(ÿ’’ª8öìÀÑÄ/HùRMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(¹Óú 8¾ÏÑÄ/HúRMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(Í¾¾÷øÿÿÿÿ8ÕÎÑÄ/HûRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ÑÃ•ÑÄ/HüRMAJORZ
+CODE_SMELL
+j	java:S106+"9Replace this use of System.out or System.err by a logger.(”ü†58Ùá³ÑÄ/HıRMAJORZ
+CODE_SMELL

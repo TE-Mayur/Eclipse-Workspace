@@ -1,0 +1,20 @@
+
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8óÑ’Ö/HÙdRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆˆ¢Âûÿÿÿÿ8‘¸ª’Ö/HÚdRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(’şºŸ8³ÿµ’Ö/HÛdRMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(øØ—ø8§Ç­’Ö/HÜdRMAJORZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8éÈ”’Ö/HİdRBLOCKERZBUG
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿ8³ÿµ’Ö/HŞdRMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(¨ñÈé8â§±’Ö/HßdRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ğıéğşÿÿÿÿ8¨±¸’Ö/HàdRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(Îªêã8ÿØÀ’Ö/HádRMAJORZ
+CODE_SMELL

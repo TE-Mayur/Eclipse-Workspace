@@ -1,0 +1,14 @@
+
+[
+java:S1874	"/Remove this use of "JApplet"; it is deprecated.(˜¨ÎÏH”SRMINORZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(­ƒ”ÉH•SRMAJORZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(è­›H–SRMAJORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Öé¬°ûÿÿÿÿH—SRMINORZ
+CODE_SMELL
+x	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜¨ÎÏH˜SRMINORZ
+CODE_SMELL

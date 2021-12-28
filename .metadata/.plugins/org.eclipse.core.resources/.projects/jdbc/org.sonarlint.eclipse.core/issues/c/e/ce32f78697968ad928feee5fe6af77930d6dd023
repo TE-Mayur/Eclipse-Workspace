@@ -1,0 +1,15 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Âí§úÿÿÿÿH¹cRMAJORZ
+CODE_SMELL
+k
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿHºcRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ââ‰‰H»cRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(êşä¸H¼cRMAJORZ
+CODE_SMELL
+t
+java:S2095
+"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(½•Ì½H½cRBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ä§–İşÿÿÿÿH¾cRMAJORZ
+CODE_SMELL

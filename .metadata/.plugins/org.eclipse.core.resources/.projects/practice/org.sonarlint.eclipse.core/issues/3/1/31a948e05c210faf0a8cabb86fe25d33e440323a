@@ -1,0 +1,10 @@
+
+f
+java:S1121
+".Extract the assignment out of this expression.(ץיארÿÿÿÿ8—ט×ûֵ/Hש:RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(±₪×¹8—ט×ûֵ/Hת:RMAJORZ
+CODE_SMELL
+k
+java:S1197"8Move the array designator from the variable to the type.(³ׂ₪א8—ט×ûֵ/Hû:RMINORZ
+CODE_SMELL

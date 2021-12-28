@@ -1,0 +1,15 @@
+package com.te.java8features;
+
+public  class Efg implements Abc,Bcd {
+	public void display(int a) {
+System.out.println(a);
+	}
+	public static void main(String[] args) {
+		
+			Abc ref= new Efg();
+			  ref.display(23);
+		
+	}
+	
+
+}

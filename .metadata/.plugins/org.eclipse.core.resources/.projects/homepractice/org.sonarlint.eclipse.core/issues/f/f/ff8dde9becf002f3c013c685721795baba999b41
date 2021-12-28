@@ -1,0 +1,47 @@
+
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ÂÏ‚¾8¢ÖÔÆ/H:RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(œ‡‹ß8ÑåÔÆ/H:RMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°·ÍÔÆ/H‘:RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îçú³ÿÿÿÿÿ8éôîÔÆ/H’:RMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(‹•‘¼ıÿÿÿÿ8°·ÍÔÆ/H“:RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÀ¿8”ÒÔÆ/H”:RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(ÌşÆ¬úÿÿÿÿ8”ÒÔÆ/H•:RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ë÷ìÔÆ/H–:RMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(–çôÃ8ÊâÏÔÆ/H—:RMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8·‰ıÔÆ/H˜:RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ‰Å¢8é™ûÔÆ/H™:RMINORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(ı’À’8ô…ÕÆ/Hš:RMAJORZ
+CODE_SMELL
+˜
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(œ‰Å¢8ÂüÔÆ/H›:RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°·ÍÔÆ/Hœ:RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°·ÍÔÆ/H:RMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(Ù÷À¦øÿÿÿÿ8°·ÍÔÆ/H:RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(ªò´8Öé¾ÔÆ/HŸ:RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ƒÎ×ÔÆ/H :RMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§ïÎÔÆ/H¡:RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ”Şßúÿÿÿÿ8ÍıÖÔÆ/H¢:RMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8·‰ıÔÆ/H£:RMINORZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+
+k
+java:S1197"8Move the array designator from the variable to the type.(Ê§…®8Ó—úµÂ/HÖ^RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8Ó—úµÂ/H×^RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(œõÝ(8Ó—úµÂ/HØ^RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóýÿÿÿÿ8Ó—úµÂ/HÙ^RMAJORZ
+CODE_SMELL
+p
+java:S1197	"8Move the array designator from the variable to the type.(ÚõÜ½ûÿÿÿÿ8Ó—úµÂ/HÚ^RMINORZ
+CODE_SMELL
+\
+java:S1481")Remove this unused "arr2" local variable.(¢Å‡Æ8Ó—úµÂ/HÛ^RMINORZ
+CODE_SMELL
+k
+java:S1854"8Remove this useless assignment to local variable "arr2".(¢Å‡Æ8Ó—úµÂ/HÜ^RMAJORZ
+CODE_SMELL

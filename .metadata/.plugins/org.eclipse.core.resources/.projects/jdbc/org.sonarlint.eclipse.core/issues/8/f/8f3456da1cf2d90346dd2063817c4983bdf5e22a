@@ -1,0 +1,24 @@
+
+z
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ú‰’]8ú±ü”Ö/HÆcRBLOCKERZBUG
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(²Àñıùÿÿÿÿ8åÉç”Ö/HÇcRMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(’şºŸ8åÉç”Ö/HÈcRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(óäæıÿÿÿÿ8åÉç”Ö/HÉcRMAJORZ
+CODE_SMELL
+s
+java:S22597"GA "NullPointerException" could be thrown; "resultSet" is nullable here.(èå²×8Ş™÷”Ö/HÊcRMAJORZBUG
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ø½Ã‡8Âã²”Ö/HŠdRBLOCKERZBUG
+e
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8şŸò”Ö/H‹dRCRITICALZ
+CODE_SMELL
+{
+java:S22595"OA "NullPointerException" could be thrown; "preparedStatement" is nullable here.(ÊÁ€ê8÷ğô”Ö/HdRMAJORZBUG
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿ8åÉç”Ö/HdRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ğıéğşÿÿÿÿ8åÉç”Ö/H‘dRMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(¨ñÈé8åÉç”Ö/H’dRMAJORZ
+CODE_SMELL

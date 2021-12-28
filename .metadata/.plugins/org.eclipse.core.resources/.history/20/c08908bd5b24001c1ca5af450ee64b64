@@ -1,0 +1,21 @@
+package com.sunday.assignments;
+
+public class NumberOfArguments {
+	String wordToFind = "GFG."{
+	  
+    Object[] arguments;
+	System.out.println("Arguments passed at runtime. " + 
+    "We can get that by using args.length and  it is " + 
+                            arguments.length + " here ");
+  
+    	for(int i = 0; i < arguments.length; i++) {    
+        if (((String) arguments[i]).equalsIgnoreCase(wordToFind)) {
+  
+             System.out.println("Provided word "+
+                          wordToFind + " is present " +  
+                         "and it is at location " + (i+1));
+        }
+   }
+ }
+
+}

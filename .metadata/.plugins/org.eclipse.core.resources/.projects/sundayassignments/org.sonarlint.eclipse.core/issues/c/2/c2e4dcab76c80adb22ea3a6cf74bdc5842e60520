@@ -1,0 +1,15 @@
+
+Y
+java:S1659"!Declare "sum" on a separate line.(ŒñŠÉÿÿÿÿÿ8ÓöºÊÄ/HºRMINORZ
+CODE_SMELL
+\
+java:S1659"$Declare "length" on a separate line.(ŒñŠÉÿÿÿÿÿ8ÓöºÊÄ/H»RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ÓöºÊÄ/H¼RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ıÛÎê8ÓöºÊÄ/H½RMAJORZ
+CODE_SMELL
+m
+java:S2184"BCast one of the operands of this division operation to a "double".(¹µ‰W8ÓöºÊÄ/H¾RMINORZBUG
+k
+java:S2184"@Cast one of the operands of this integer division to a "double".(¹µ‰W8ÓöºÊÄ/H¿RMINORZBUG

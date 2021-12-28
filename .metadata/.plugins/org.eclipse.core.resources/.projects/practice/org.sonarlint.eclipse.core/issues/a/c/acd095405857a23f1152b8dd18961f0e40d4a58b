@@ -1,0 +1,19 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8îıËöÆ/Hô;RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÖ£§8°íÄöÆ/Hö;RMINORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "itr".(ÌĞ›î8ıŠÇöÆ/Hõ;RMAJORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "itr" local variable.(ÌĞ›î8ıŠÇöÆ/Hù;RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(õ¦óùûÿÿÿÿ8°íÄöÆ/H÷;RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ã“Ëùüÿÿÿÿ8Ú×ÉöÆ/Hø;RMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ú×ÉöÆ/Hó;RMINORZ
+CODE_SMELL

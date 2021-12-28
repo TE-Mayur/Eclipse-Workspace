@@ -1,0 +1,6 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8È¯ó£Æ/HÅ,RMAJORZ
+CODE_SMELL
+`
+java:S1172"(Remove this unused method parameter "a".(óø“’üÿÿÿÿ8¡½‹¤Æ/HÙ,RMAJORZ
+CODE_SMELL

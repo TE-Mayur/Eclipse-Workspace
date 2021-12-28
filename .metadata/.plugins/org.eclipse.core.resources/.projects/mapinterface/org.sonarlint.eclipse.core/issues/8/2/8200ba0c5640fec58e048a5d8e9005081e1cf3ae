@@ -1,0 +1,24 @@
+
+u
+java:S4143"DVerify this is the key that was intended; it was already set before.(™ÍÍ¼üÿÿÿÿ8ˆúšÅ/H–8RMAJORZBUG
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š„„ùÿÿÿÿ8ˆúšÅ/H˜8RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8Í†§Å/H™8RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ìèŞz8Í†§Å/Hš8RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(Ñèòù8¢ñÇÅ/H›8RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÃ—”8Í†§Å/Hœ8RMAJORZ
+CODE_SMELL
+u
+java:S4143"DVerify this is the key that was intended; it was already set before.(âŠâ«ùÿÿÿÿ8ˆúšÅ/H8RMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚øæÛ8Í†§Å/HŸ8RMAJORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8¢ñÇÅ/H 8RMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(¯çó™üÿÿÿÿ8¢ñÇÅ/H¡8RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(™Ï8¢ñÇÅ/H¢8RMAJORZ
+CODE_SMELL

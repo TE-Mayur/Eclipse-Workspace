@@ -1,0 +1,14 @@
+
+a
+java:S1854	"5Remove this useless assignment to local variable "c".(íÉÌ«H÷9RMAJORZ
+CODE_SMELL
+_
+java:S3518	"7Make sure "b" can't be zero before doing this division.(íÉÌ«Hø9RCRITICALZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿHû9RMAJORZ
+CODE_SMELL
+l	java:S125
+"<This block of commented-out lines of code should be removed.(ÛóßßýÿÿÿÿHü9RMAJORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "c" local variable.(»ç»“Hý9RMINORZ
+CODE_SMELL

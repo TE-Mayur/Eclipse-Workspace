@@ -1,0 +1,64 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(±ˆ§H»aRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(»³ûÿÿÿÿÿHÀaRMAJORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(ìÇõêşÿÿÿÿH°aRMAJORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(°Ïş¹ıÿÿÿÿH¾aRMAJORZ
+CODE_SMELL
+c	java:S106G"9Replace this use of System.out or System.err by a logger.(ÀˆÔcHÈaRMAJORZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(éæ„¨H¸aRMAJORZ
+CODE_SMELL
+Z
+java:S1611)"/Remove the parentheses around the "a" parameter(Êñ«1H³aRMINORZ
+CODE_SMELL
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(­€‚¤úÿÿÿÿHÊaRMAJORZ
+CODE_SMELL
+d	java:S106R"9Replace this use of System.out or System.err by a logger.(»ÎÄ”H¼aRMAJORZ
+CODE_SMELL
+i	java:S106O"9Replace this use of System.out or System.err by a logger.(Ä“Ğ×úÿÿÿÿHÅaRMAJORZ
+CODE_SMELL
+d	java:S106M"9Replace this use of System.out or System.err by a logger.(¥ÓÏËHËaRMAJORZ
+CODE_SMELL
+d	java:S106D"9Replace this use of System.out or System.err by a logger.(öêÀÊH¯aRMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(áäé¾ûÿÿÿÿH¹aRMAJORZ
+CODE_SMELL
+X
+java:S16125",Replace this lambda with a method reference.(­Ùı‰H´aRMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ èHÆaRMINORZ
+CODE_SMELL
+i	java:S1063"9Replace this use of System.out or System.err by a logger.(½¸èŠıÿÿÿÿHÇaRMAJORZ
+CODE_SMELL
+d	java:S106Q"9Replace this use of System.out or System.err by a logger.(øİê¶HÉaRMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(õ“¥üÿÿÿÿH²aRMAJORZ
+CODE_SMELL
+d	java:S106A"9Replace this use of System.out or System.err by a logger.(ôÁ›ËHµaRMAJORZ
+CODE_SMELL
+i	java:S106I"9Replace this use of System.out or System.err by a logger.(Ò®¶şÿÿÿÿH½aRMAJORZ
+CODE_SMELL
+b
+java:S16115"/Remove the parentheses around the "a" parameter(­Ùı‰8û·Æ¢Ù/H¿aRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(­€‚¤úÿÿÿÿH·aRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(ùô ñüÿÿÿÿHÄaRMAJORZ
+CODE_SMELL
+i	java:S1066"9Replace this use of System.out or System.err by a logger.(ÖÆ“ùûÿÿÿÿHÁaRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ØøÿİH¶aRMAJORZ
+CODE_SMELL
+d	java:S106U"9Replace this use of System.out or System.err by a logger.(†óæ›H±aRMAJORZ
+CODE_SMELL
+d	java:S1067"9Replace this use of System.out or System.err by a logger.(ÒÂ“…HÃaRMAJORZ
+CODE_SMELL
+`
+java:S1611:"/Remove the parentheses around the "a" parameter(‡¥ŞªùÿÿÿÿHÂaRMINORZ
+CODE_SMELL
+i	java:S106K"9Replace this use of System.out or System.err by a logger.(ÚëïùÿÿÿÿHºaRMAJORZ
+CODE_SMELL

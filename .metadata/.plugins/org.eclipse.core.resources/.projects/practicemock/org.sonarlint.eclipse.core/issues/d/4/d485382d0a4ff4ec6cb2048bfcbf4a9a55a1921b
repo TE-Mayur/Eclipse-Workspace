@@ -1,0 +1,20 @@
+
+d
+java:S1135&"2Complete the task associated to this TODO comment.(‡ñÅ¼8Á‚¥ÆÒ/HûJRINFOZ
+CODE_SMELL
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÂáæÅ8“¡ÆÒ/HôJRBLOCKERZBUG
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8“¡ÆÒ/HòJRMAJORZ
+CODE_SMELL
+r
+java:S1854":Remove this useless assignment to local variable "result".(…ö×´ûÿÿÿÿ8æ¼ÔÆÒ/H‰KRMAJORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "result" local variable.(…ö×´ûÿÿÿÿ8æ¼ÔÆÒ/HŠKRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8æ¼ÔÆÒ/H‹KRMINORZ
+CODE_SMELL
+‚
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·Ç‚æøÿÿÿÿ8æ¼ÔÆÒ/HŒKRBLOCKERZBUG

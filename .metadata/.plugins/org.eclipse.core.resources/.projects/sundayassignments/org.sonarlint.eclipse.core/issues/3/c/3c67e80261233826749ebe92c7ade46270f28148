@@ -1,0 +1,19 @@
+
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰»Äºøÿÿÿÿ8ƒèí´Ä/HáRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë°×‰øÿÿÿÿ8ƒèí´Ä/HâRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§‡‚şÿÿÿÿ8ƒèí´Ä/HãRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¯…Å‚ÿÿÿÿÿ8ƒèí´Ä/HäRMAJORZ
+CODE_SMELL
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôöŞš8ƒèí´Ä/HåRMINORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8ƒèí´Ä/HæRMINORZ
+CODE_SMELL
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ì’½×ûÿÿÿÿ8ƒèí´Ä/HçRMINORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì’½×ûÿÿÿÿ8ƒèí´Ä/HèRMINORZ
+CODE_SMELL

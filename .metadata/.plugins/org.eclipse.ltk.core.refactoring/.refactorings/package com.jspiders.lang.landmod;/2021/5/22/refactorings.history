@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.jspiders.lang.langmod&apos; to &apos;package com.jspiders.lang.landmod;/src&apos;&#x0D;&#x0A;- Original project: &apos;package com.jspiders.lang.landmod;&apos;&#x0D;&#x0A;- Destination element: &apos;package com.jspiders.lang.landmod;/src&apos;&#x0D;&#x0A;- Original element: &apos;package com.jspiders.lang.landmod;/src/com.jspiders.lang.langmod&apos;" description="Copy package" destination="/src" element1="/src&lt;com.jspiders.lang.langmod" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1622266733525" version="1.0"/>
+</session>

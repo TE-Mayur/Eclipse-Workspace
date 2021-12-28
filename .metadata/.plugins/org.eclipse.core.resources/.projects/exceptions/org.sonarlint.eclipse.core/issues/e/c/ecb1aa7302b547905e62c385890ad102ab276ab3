@@ -1,0 +1,13 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(κϊ’¶ÿÿÿÿÿ8–φ—®Γ/H©/RMAJORZ
+CODE_SMELL
+l
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(Ίβϊ½όÿÿÿÿ8ισ®Γ/Hª/RMINORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Β΅Άδώÿÿÿÿ8ισ®Γ/H«/RMINORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¨ΨΞϋÿÿÿÿ8–φ—®Γ/H¬/RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤›Ά8–φ—®Γ/H­/RMAJORZ
+CODE_SMELL

@@ -1,0 +1,54 @@
+
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(‰âíİ8¶üáÅ/H›QRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(øšÂÄÿÿÿÿÿ8á¢€ŒÅ/HœQRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(½¸Ìø8á¢€ŒÅ/HQRMAJORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ÑğÕ8á¢€ŒÅ/HQRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(‰âíİ8á¢€ŒÅ/HŸQRMAJORZ
+CODE_SMELL
+Œ
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïº‡8ÊƒŒÅ/H QRMINORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8¹Õ¦ŒÅ/H¡QRMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(‰âíİ8¨Í’ŒÅ/H¢QRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(âÕÊŒ8Èß©ŒÅ/H£QRMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(‰ğç±ûÿÿÿÿ8Şö¸Å/H¤QRMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‘Ëóüÿÿÿÿ8ÖÄœŒÅ/H¥QRMINORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬8á¢€ŒÅ/H¦QRMAJORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(‰âíİ8—–ØÅ/H§QRMAJORZ
+CODE_SMELL
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(áÿ ”8’Õ§ŒÅ/H¨QRMAJORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "Pants" 4 times.(î²Ââ8ËØ¾Å/H©QRCRITICALZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁŞ¨Æüÿÿÿÿ8á¢€ŒÅ/H®QRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÉØÂ8á¢€ŒÅ/H¯QRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÉØÂ8á¢€ŒÅ/H°QRMAJORZ
+CODE_SMELL
+‘
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").( ô§‹ûÿÿÿÿ8á¢€ŒÅ/H±QRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬8á¢€ŒÅ/H²QRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(«Æ¸şÿÿÿÿ8’Õ§ŒÅ/H³QRMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(ë«íŞ8‘œäÅ/H´QRMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(ãæ¯Ô8õ¤‘ŒÅ/HµQRMAJORZ
+CODE_SMELL
+ 
+java:S1192&"jDefine a constant instead of duplicating this literal "-----------------------------------------" 4 times.(‰âíİ8¶üáÅ/H¶QRCRITICALZ
+CODE_SMELL

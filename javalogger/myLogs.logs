@@ -1,0 +1,7 @@
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * SEVERE * * Severe msg 
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * WARNING * * warning msg 
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * INFO * * info msg 
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * CONFIG * * config msg 
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * FINE * * fine msg 
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * FINER * * finer msg 
+1 * * com.te.javalogger.FileHandlerTest * * main * * Sat Oct 09 14:47:55 IST 2021 * * FINEST * * Finest msg 
